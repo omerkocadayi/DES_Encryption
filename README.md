@@ -29,7 +29,7 @@ named 'DocumentName_CRYPTED' with the same file path as the document and write t
 
 ## Nasıl Çalışır ? 
 
-Programı çalıştırma kodlarının bulunduğu 'Y205012105_RUN' içerisinde import edilen 'Y205012105_DES'in
+Programı çalıştırma kodlarının bulunduğu 'DES_gui' içerisinde import edilen 'DES_lib'in
 içinde bulunan metodlar ile şifreleme ve şifre çözme işlemleri gerçekleşmektedir.
 Şifrelenecek verilerin 8 bayt ve katları, anahtarın ise net 8 bayt uzunluğunda olması gerekmektedir.
 Bu kuralın bozulması durumunda ise PKCS5 padding yöntemiyle veri ve anahtar doldurulup şifreleme ona göre yapılmaktadır.
