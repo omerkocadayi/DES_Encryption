@@ -1,5 +1,4 @@
 # DES_Encryption
-![DES_GUI](https://github.com/omerkocadayi/DES_Encryption/blob/main/DES_GUI.PNG)
 *** *There is an exe formatted application in the 'des_exe.zip' file.
     You can also use it to run the program directly.*
 
@@ -11,6 +10,8 @@ The data to be encrypted must be 8 bytes and its multiples, and the key must be 
 In case this rule is broken, data and key are filled with PKCS5 padding method and encryption is done accordingly.
 The user will not notice this and there will be no change in the output.
 According to the DES algorithm, these keys and data are passed through SBOX permutations, a loop is created between blocks and this is repeated 16 times.
+
+![DES_GUI](https://github.com/omerkocadayi/DES_Encryption/blob/main/DES_GUI.PNG)
 
 ## How to use ?
 
