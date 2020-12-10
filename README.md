@@ -1,6 +1,5 @@
 # DES Encryption with simple interface
-*** *There is an exe formatted application in the 'des_exe.zip' file.
-    You can also use it to run the program directly.*
+*** *There is an exe formatted application in the 'des_exe.zip' file. You can use it to run the program directly.*
 
 ## How does it work ?
 
@@ -26,8 +25,7 @@ Thus, a screen will appear for you to select a 'TXT' document from your computer
 After selecting this document, the encryption algorithm will run again and create anew txt document
 named 'DocumentName_CRYPTED' with the same file path as the document and write the results to this document.
 
-*** *Ayrıca 'des_exe.zip' dosyasının içinde exe formatlı uygulama mevcut.
-    Programı direkt olarak çalıştırmak için onu da kullanabilirsiniz.*
+*** *'des_exe.zip' dosyasının içinde exe formatlı uygulama mevcut. Programı direkt olarak çalıştırmak için onu kullanabilirsiniz.*
 
 ## Nasıl Çalışır ? 
 
