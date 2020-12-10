@@ -1,4 +1,4 @@
-# DES_Encryption
+# DES Encryption with simple interface
 *** *There is an exe formatted application in the 'des_exe.zip' file.
     You can also use it to run the program directly.*
 
